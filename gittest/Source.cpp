@@ -9,5 +9,6 @@ int main()
 	//test deux
 	//sdfbdskjfbskb
 	//wag
+	cout << "samarche!!" << endl;
 	cout << "hello world" << endl;
 }
